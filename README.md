@@ -9,4 +9,4 @@ Contributors:
 ## Files:
   - simulacion_langevin.py : Implementation of the langevin equation solution in the Time Projection Chamber with the purpose of generating sintetic data for the project purposes
   - Project.py : Algorithm for training a secuential model to predict the starting position of the electron clouds before the migration to the chamber
-  - particle_traj : Algorithm to detect peaks of electrons on the pad plance of the TPC, call the algorithm to predict their original positions and recreate the trajectory of an energetic particle through the chamber
+  - particle_traj.py : Algorithm to detect peaks of electrons on the pad plance of the TPC, call the algorithm to predict their original positions and recreate the trajectory of an energetic particle through the chamber
